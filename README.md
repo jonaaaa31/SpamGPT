@@ -1,37 +1,38 @@
-# Termes de Service pour SpamGPT
+# 📜 Terms of Service - SpamGPT (Soundboard Bot)
 📅 Dernière mise à jour : 28/01/2025
 
 1️⃣ Acceptation des Conditions
-En utilisant DémonGPT sur Discord, vous acceptez ces Conditions d'Utilisation (ToS).
+En utilisant SpamGPT sur Discord, vous acceptez ces Conditions d'Utilisation (ToS).
 Si vous n'acceptez pas ces conditions, veuillez ne pas utiliser le bot.
 
 2️⃣ Fonctionnalités et Utilisation
-DémonGPT est un bot permettant :
+SpamGPT est un bot Discord qui permet de :
 
-💬 De discuter avec une IA (GPT-4o Mini) via OpenAI.
-🔊 D'utiliser une soundboard aléatoire dans un salon vocal.
-📢 D'exécuter diverses commandes interactives sur Discord.
+🔊 Rejoindre un salon vocal aléatoire.
+🎵 Jouer un son aléatoire depuis une soundboard.
+🚪 Se déconnecter automatiquement après la lecture du son.
 3️⃣ Restrictions d’Utilisation 🚫
-L'utilisateur s'engage à ne pas utiliser DémonGPT pour :
+Vous vous engagez à ne pas utiliser SpamGPT pour :
 
-❌ Générer des contenus illégaux, haineux, offensants ou NSFW.
-🚫 Spammer ou abuser des fonctionnalités du bot.
-🎭 Se faire passer pour une autre personne ou un autre service.
-📜 Contourner les limitations API de Discord ou OpenAI.
-Le non-respect de ces règles entraînera une interdiction d'accès au bot.
+❌ Spammer des salons vocaux en le forçant à rejoindre plusieurs fois.
+🚫 Diffuser du contenu offensant, NSFW ou illégal.
+🎭 Utiliser le bot à des fins de nuisance ou de harcèlement.
+🛠️ Tenter de modifier ou de contourner ses restrictions.
+Le non-respect de ces règles peut entraîner un bannissement du bot du serveur.
 
 4️⃣ Collecte et Utilisation des Données 🔐
-DémonGPT ne stocke pas vos messages en dehors de Discord.
-Les conversations avec l’IA sont traitées par OpenAI et soumises à leur propre politique de confidentialité (Voir OpenAI).
-Les logs peuvent être enregistrés temporairement pour améliorer le bot et détecter les abus.
-📌 Aucune donnée personnelle n'est vendue ou partagée.
+SpamGPT ne stocke aucune donnée personnelle.
+Les interactions avec le bot (salon vocal rejoint, son joué) sont traitées en temps réel et non sauvegardées.
+Les logs d’erreur sont conservés temporairement pour améliorer la stabilité du bot.
+📌 Le bot ne surveille pas et ne stocke pas vos conversations vocales.
 
 5️⃣ Limitation de Responsabilité
-DémonGPT est un bot expérimental, et ses réponses peuvent être inexactes.
-L’administrateur du bot (demoooon) n'est pas responsable des décisions prises en fonction des réponses du bot.
-Le bot peut être désactivé à tout moment sans préavis.
+SpamGPT est un bot expérimental et peut ne pas fonctionner correctement à tout moment.
+L’administrateur du bot (demoooon) n'est pas responsable d'un usage abusif du bot sur un serveur.
+Le bot peut être désactivé ou retiré d’un serveur à tout moment sans préavis.
 6️⃣ Modifications des Conditions
-Ces ToS peuvent être mis à jour à tout moment. L’utilisation continue du bot après une mise à jour implique l'acceptation des nouvelles conditions.
+Ces ToS peuvent être mises à jour à tout moment.
+L’utilisation continue du bot après une mise à jour signifie que vous acceptez les nouvelles conditions.
 
 7️⃣ Contact
-📩 Si vous avez des questions, contactez demoooon sur Discord.
+📩 Pour toute question ou signalement, contactez demoooon sur Discord.
